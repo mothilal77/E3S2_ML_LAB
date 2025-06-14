@@ -1,14 +1,22 @@
+# 🧑‍🎓 Student Information
+- **Name:** L. Mothilal  
+- **Class:** E3 CSE C1  
+- **Roll No:** 12  
+- **Student ID:** b200312  
+
+---
+
 # 🧠 Machine Learning Lab
 
 Welcome to the Machine Learning Lab repository! This repository contains the implementation of 10 core machine learning experiments completed as part of the academic lab course.
 
 ## 🔬 Lab Details
 
-- *Course Name:* Machine Learning Laboratory 
-- *Campus:* RGUKT Basar 
-- *Instructor:* Sujay Sarkar Sir 
-- *Semester:* 3rd Year, B.Tech CSE 
-- *Programming Language:* Python 
+- *Course Name:* Machine Learning Laboratory  
+- *Campus:* RGUKT Basar  
+- *Instructor:* Sujay Sarkar Sir  
+- *Semester:* 3rd Year, B.Tech CSE  
+- *Programming Language:* Python  
 - *Libraries Used:* NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, etc.
 
 ---
@@ -24,4 +32,4 @@ Welcome to the Machine Learning Lab repository! This repository contains the imp
 | 5️⃣ | Support Vector Machine (SVM) | Applied SVM for classification problems |
 | 6️⃣ | Naive Bayes Classifier | Developed a spam detection model using Naive Bayes |
 | 7️⃣ | K-Means Clustering | Applied unsupervised clustering with K-Means |
-| 8️⃣ | Model Evaluation & Cross Validation | Evaluated models using confusion matrix, precision, recall, F1-score, and cross-validation techniques |# E3S2_ML_LAB
+| 8️⃣ | Model Evaluation & Cross Validation | Evaluated models using confusion matrix, precision, recall, F1-score, and cross-validation techniques |
